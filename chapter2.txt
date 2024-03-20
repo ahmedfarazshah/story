@@ -1,5 +1,4 @@
 why do we code, ai is here to make us explode
-<<<<<<< HEAD
 the thing is I really love to code not just design but to code as well but I am also a end game trader
-=======
->>>>>>> dccd5f817f3b7f381f13434638f55c2b9224dd21
+
+ dccd5f817f3b7f381f13434638f55c2b9224dd21
